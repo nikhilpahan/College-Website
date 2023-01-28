@@ -194,4 +194,9 @@ footer p {
     .sports > div {
         flex: 1;
     }
+
+    footer ul {
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
 }
